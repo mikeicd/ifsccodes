@@ -18,7 +18,7 @@ int main()
 
     pEscalar=(ax*bx)+(ay*by);
 
-    printf("O produto dos vetores A e B é: %d\n",pEscalar);
+    printf("O produto escalar entre os vetores A e B é: %d\n",pEscalar);
 
 return 0;    
 }
