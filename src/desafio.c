@@ -5,7 +5,7 @@ int main()
 {
   float o,u,n1,n2,n3,n4,n5,n6,n7;
   
-  printf("Determine os 7 valores a serem analizados para o calculo do desvio populacional:\n");
+  printf("Determine os 7 valores a serem analizados para o calculo do desvio padrão da população:\n");
   printf("1° Valor:");
   scanf("%f",&n1);
   printf("2° Valor:");
