@@ -7,7 +7,7 @@ int main ()
         printf("Iforme o %d° número: ",x);
         scanf("%d",&y);
         if (y<0) {
-            printf("Sai daqui com essa negatividade!!!!!!\n");
+            printf("%d?? Sai daqui com essa negatividade!!!!!!\n",y);
             break;
         }
     }
