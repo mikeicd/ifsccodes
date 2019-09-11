@@ -20,7 +20,7 @@ int main ()
             printf("Menor que o segredo!\n");
         } 
     } while (iSecret!=iGuess);
-
+    
     printf("Acerto Miseravel!!!\n");
     return 0;
 }
