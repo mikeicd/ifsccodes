@@ -10,7 +10,7 @@ int main () {
 
   y = rand() % 10 + 1;
 
-  while(x!=y) {
+  while(1) {
     printf("Chute um numero de 1 a 10: ");
     scanf("%d",&x);
     if (x>y){
@@ -19,6 +19,7 @@ int main () {
       printf("Esse numero é menor que o segredo..\n");
     } else  {
      printf("Acerto Miseravel!!!\n");
+    break;
     }
   }
 return 0;  
