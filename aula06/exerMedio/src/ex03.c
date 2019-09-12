@@ -30,7 +30,6 @@ int main () {
     for (int i = 1; i <= j; i++) {
       printf("%c ",l1);
     }
-
   printf("%c\n",l1);
   }
 
@@ -46,6 +45,5 @@ int main () {
     }
   printf("%c\n",l2);
   }
-  
 return 0;
 }
