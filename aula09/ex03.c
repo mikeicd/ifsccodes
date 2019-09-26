@@ -22,11 +22,13 @@ int main () {
     }
     media=soma/10.0;
     printf("A média é: %.3f\n",media);
+    i=0;
     while (i<10) {
         if (vet1[i]>=media) {
             maior++;
         }
+    i++;
     }
-    printf("A quantitade de numeros maiores que a média é: %d",maior);
+    printf("A quantitade de numeros maiores que a média é: %d\n",maior);
 return 0;
 }
