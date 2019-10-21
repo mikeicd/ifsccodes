@@ -25,5 +25,5 @@ void main() {
    
   join(testo1, testo2, testo3);
 
-  printf("Texto: %s\n",testo3);
+  printf("Texto: %s\n",testo3);  
 }
